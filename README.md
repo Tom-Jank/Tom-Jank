@@ -1,5 +1,5 @@
-# Hi I'm Tomek, a full-stack dev based in Poland
-I enjoy working with Java and Angular, but I'm open to exploring other languages.
-Lately picked up React and for now it is my primary frontend tool.
+# Hi I'm Tomek, a full-stack engineer
 
-Currently working at Deloitte Automotive DevOps Studio in Poznań 💼
+💻 Proficient in Java and know a little bit of TypeScript, but I'm open to exploring other languages.
+👽 Trying to not write slop and utilize pattern matching
+💼 Currently working at Deloitte Automotive DevOps Studio in Poznań, Poland
