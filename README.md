@@ -1,4 +1,4 @@
-# Hi I'm Tomek, a full-stack engineer
+# Hi I'm Tomek
 
 Pattern matching and reinventing the wheel enthusiast.
 
