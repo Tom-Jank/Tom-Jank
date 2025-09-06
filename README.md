@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomek</h1>
-<h3 align="center">Full-Stack developer from Poland</h3>
+<h3 align="center">Full-Stack Software Engineer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-jank&label=Profile%20views&color=0e75b6&style=flat" alt="tom-jank" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on anything interesting, but mainly web apps.
 
-- 💼 Currently working at Deloitte Automotive DevOps Studio in Poznań, Poland
+- 💼 Currently working at Apilia in Poznań, Poland
 
   
 <p align="left">
